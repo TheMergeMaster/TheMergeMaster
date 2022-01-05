@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gautam Tiwari
+- 👀 I’m interested in Web development, web design, and 3D
+- 🌱 I’m currently learning blender
+- 💞️ I’m looking to collaborate on 3D website projects
+- 📫 Reach me on Linkedin, Twitter, Instagram (@GautamTiwariDev), or email me on gautamtiwari.dev@gmail.com
