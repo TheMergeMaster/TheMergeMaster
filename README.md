@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Gautam Tiwari
-- 👀 I’m interested in Web development, web design, 3D, and VR
-- 🌱 I’m currently learning blender
+- 👋 Hi, I’m Gautam Tiwari, from India
+- 👀 I’m interested in web development & design, 3D, and VR
 - 💞️ I’m looking to collaborate on 3D website projects
-- 📫 Reach me on [Linkedin](linkedin.com/in/GautamTiwariDev/), [Twitter](twitter.com/GautamTiwariDev), [Instagram](instagram.com/gautamtiwaridev/) (@GautamTiwariDev), or email me on gautamtiwari.dev@gmail.com
+- 📫 Reach me on [Linkedin](https://linkedin.com/in/GautamTiwariDev/), [Twitter](https://twitter.com/GautamTiwariDev), [Instagram](https://instagram.com/gautamtiwaridev/) (@GautamTiwariDev), or email me on gautamtiwari.dev@gmail.com
