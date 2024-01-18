@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gautam Tiwari, from India
-- 👀 I’m interested in web development & design, 3D, and VR
-- 💞️ I’m looking to collaborate on 3D website projects
+- 👋 Hi, I’m Gautam Tiwari, from devbhoomi Uttrakhand, India
+- 👀 I’m interested in problem solving, front end web development & design, 3D
+- 💞️ I’m looking to collaborate on 3D web projects and learn webpage animation
 - 📫 Reach me on [Linkedin](https://linkedin.com/in/GautamTiwariDev/), [Twitter](https://twitter.com/GautamTiwariDev), [Instagram](https://instagram.com/gautamtiwaridev/) (@GautamTiwariDev), or email me on gautamtiwari.dev@gmail.com
