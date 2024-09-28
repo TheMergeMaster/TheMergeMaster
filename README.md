@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Gautam Tiwari, from devbhoomi Uttrakhand, India
-- 👀 I’m interested in problem solving, front end web development & design, 3D
-- 💞️ I’m looking to collaborate on 3D web projects and learn webpage animation
-- 📫 Reach me on [Linkedin](https://linkedin.com/in/GautamTiwariDev/), [Twitter](https://twitter.com/GautamTiwariDev), [Instagram](https://instagram.com/gautamtiwaridev/) (@GautamTiwariDev), or email me on gautamtiwari.dev@gmail.com
+- Hi, My name is Gautam Tiwari
+- I’m looking to collaborate on something exiciting ╰(*°▽°*)╯
+- Reach me on [Linkedin](https://linkedin.com/in/TheMergeMaster/), [Twitter](https://twitter.com/TheMergeMaster), [Instagram](https://instagram.com/TheMergeMaster/) (@TheMergeMaster), or email me on [gautamtiwari.dev@gmail.com](mailto:gautamtiwari.dev@gmail.com)
