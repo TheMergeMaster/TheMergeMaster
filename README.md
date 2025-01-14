@@ -1,3 +1,3 @@
 - Hi, My name is Gautam Tiwari
-- I’m looking to collaborate on something exiciting ╰(*°▽°*)╯
-- Reach me on [Linkedin](https://linkedin.com/in/TheMergeMaster/), [Twitter](https://twitter.com/TheMergeMaster), [Instagram](https://instagram.com/TheMergeMaster/) (@TheMergeMaster), or email me on [gautamtiwari.dev@gmail.com](mailto:gautamtiwari.dev@gmail.com)
+- I’m looking to collaborate on something exciting ╰(*°▽°*)╯
+- Reach me on [Linkedin](www.linkedin.com/in/gautam-tiwari-2b46b4223), [Twitter](https://twitter.com/dvimaaniye), [Instagram](https://instagram.com/dvimaaniye/) (@dvimaaniye), or email me on [gautamtiwari.dev@gmail.com](mailto:gautamtiwari.dev@gmail.com)
